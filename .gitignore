@@ -4,5 +4,5 @@
 
 /.vs/NewBackend/v15/Server/sqlite3
 /.vs/
-**/**/obj/
-**/**/bin/
+/**/obj/
+/**/bin/
