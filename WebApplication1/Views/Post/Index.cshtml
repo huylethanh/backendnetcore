@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Share.Intefaces.Models.IPostModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                Content
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @*@Html.DisplayFor(modelItem => item.Id)*@
+                    @item.Id
+                </td>
+                <td>
+                    @item.Content
+                </td>
+                <td>
+                    @*@Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })*@
+
+                    <a asp-action="Edit" asp-route-postid="@item.Id" asp-route-type="abc">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

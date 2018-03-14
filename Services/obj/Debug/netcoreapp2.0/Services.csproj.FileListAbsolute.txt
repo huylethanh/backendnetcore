@@ -1,0 +1,9 @@
+C:\SourceCodes\NewBackend\Services\bin\Debug\netcoreapp2.0\Services.deps.json
+C:\SourceCodes\NewBackend\Services\bin\Debug\netcoreapp2.0\Services.dll
+C:\SourceCodes\NewBackend\Services\bin\Debug\netcoreapp2.0\Services.pdb
+C:\SourceCodes\NewBackend\Services\obj\Debug\netcoreapp2.0\Services.csprojResolveAssemblyReference.cache
+C:\SourceCodes\NewBackend\Services\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+C:\SourceCodes\NewBackend\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+C:\SourceCodes\NewBackend\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
+C:\SourceCodes\NewBackend\Services\obj\Debug\netcoreapp2.0\Services.dll
+C:\SourceCodes\NewBackend\Services\obj\Debug\netcoreapp2.0\Services.pdb

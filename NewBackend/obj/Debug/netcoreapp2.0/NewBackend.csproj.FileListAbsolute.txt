@@ -1,0 +1,15 @@
+C:\SourceCodes\NewBackend\NewBackend\bin\Debug\netcoreapp2.0\NewBackend.deps.json
+C:\SourceCodes\NewBackend\NewBackend\bin\Debug\netcoreapp2.0\NewBackend.runtimeconfig.json
+C:\SourceCodes\NewBackend\NewBackend\bin\Debug\netcoreapp2.0\NewBackend.runtimeconfig.dev.json
+C:\SourceCodes\NewBackend\NewBackend\bin\Debug\netcoreapp2.0\NewBackend.dll
+C:\SourceCodes\NewBackend\NewBackend\bin\Debug\netcoreapp2.0\NewBackend.pdb
+C:\SourceCodes\NewBackend\NewBackend\obj\Debug\netcoreapp2.0\NewBackend.csprojResolveAssemblyReference.cache
+C:\SourceCodes\NewBackend\NewBackend\obj\Debug\netcoreapp2.0\NewBackend.csproj.CoreCompileInputs.cache
+C:\SourceCodes\NewBackend\NewBackend\obj\Debug\netcoreapp2.0\NewBackend.AssemblyInfoInputs.cache
+C:\SourceCodes\NewBackend\NewBackend\obj\Debug\netcoreapp2.0\NewBackend.AssemblyInfo.cs
+C:\SourceCodes\NewBackend\NewBackend\obj\Debug\netcoreapp2.0\NewBackend.dll
+C:\SourceCodes\NewBackend\NewBackend\obj\Debug\netcoreapp2.0\NewBackend.pdb
+C:\SourceCodes\NewBackend\NewBackend\bin\Debug\netcoreapp2.0\Repositories.dll
+C:\SourceCodes\NewBackend\NewBackend\bin\Debug\netcoreapp2.0\Repositories.pdb
+C:\SourceCodes\NewBackend\NewBackend\bin\Debug\netcoreapp2.0\Share.dll
+C:\SourceCodes\NewBackend\NewBackend\bin\Debug\netcoreapp2.0\Share.pdb

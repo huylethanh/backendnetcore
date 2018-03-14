@@ -1,0 +1,15 @@
+C:\SourceCodes\NewBackend\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\SourceCodes\NewBackend\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\SourceCodes\NewBackend\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\SourceCodes\NewBackend\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\SourceCodes\NewBackend\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\SourceCodes\NewBackend\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+C:\SourceCodes\NewBackend\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\SourceCodes\NewBackend\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\SourceCodes\NewBackend\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\SourceCodes\NewBackend\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\SourceCodes\NewBackend\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\SourceCodes\NewBackend\WebApplication1\bin\Debug\netcoreapp2.0\Repositories.dll
+C:\SourceCodes\NewBackend\WebApplication1\bin\Debug\netcoreapp2.0\Share.Intefaces.dll
+C:\SourceCodes\NewBackend\WebApplication1\bin\Debug\netcoreapp2.0\Repositories.pdb
+C:\SourceCodes\NewBackend\WebApplication1\bin\Debug\netcoreapp2.0\Share.Intefaces.pdb

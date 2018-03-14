@@ -1,0 +1,11 @@
+C:\SourceCodes\NewBackend\Share.Intefaces\bin\Debug\netcoreapp2.0\Share.Intefaces.deps.json
+C:\SourceCodes\NewBackend\Share.Intefaces\bin\Debug\netcoreapp2.0\Share.Intefaces.dll
+C:\SourceCodes\NewBackend\Share.Intefaces\bin\Debug\netcoreapp2.0\Share.Intefaces.pdb
+C:\SourceCodes\NewBackend\Share.Intefaces\obj\Debug\netcoreapp2.0\Share.Intefaces.csprojResolveAssemblyReference.cache
+C:\SourceCodes\NewBackend\Share.Intefaces\obj\Debug\netcoreapp2.0\Share.Intefaces.csproj.CoreCompileInputs.cache
+C:\SourceCodes\NewBackend\Share.Intefaces\obj\Debug\netcoreapp2.0\Share.Intefaces.AssemblyInfoInputs.cache
+C:\SourceCodes\NewBackend\Share.Intefaces\obj\Debug\netcoreapp2.0\Share.Intefaces.AssemblyInfo.cs
+C:\SourceCodes\NewBackend\Share.Intefaces\obj\Debug\netcoreapp2.0\Share.Intefaces.dll
+C:\SourceCodes\NewBackend\Share.Intefaces\obj\Debug\netcoreapp2.0\Share.Intefaces.pdb
+C:\SourceCodes\NewBackend\Share.Intefaces\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\SourceCodes\NewBackend\Share.Intefaces\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
