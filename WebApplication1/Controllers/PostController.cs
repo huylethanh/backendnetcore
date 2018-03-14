@@ -18,7 +18,7 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
-            var list = this.postRepository.GetList();
+            var list = this.postRepository.GetList(110);
             return View(list);
         }
 
